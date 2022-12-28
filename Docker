@@ -1,2 +1,5 @@
 how to start docker service
 systemctl status docker
+
+how to install docker
+yum install docker
