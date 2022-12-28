@@ -1,0 +1,2 @@
+how to start docker service
+systemctl status docker
